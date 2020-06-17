@@ -1,0 +1,52 @@
+
+body{
+    background:url('bg5.jpg');
+    background-size:cover;
+    font-family:Arial;
+}
+th{
+  border: none;
+  border-bottom: 1px solid #ffff99;
+  border-collapse: collapse;
+  text-align:center;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+}
+td {
+  border: none;
+  border-bottom: 1px solid #C8C8C8;
+  border-collapse: collapse;
+  text-align:center;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+}
+tr:nth-child(odd)       { background-color:#ffff99; }
+tr:nth-child(even)  { background-color:#fff; }
+
+
+h3{
+    text-align:center;
+   font-family:"Comic Sans MS", cursive, sans-serif;
+    color:#000000;
+}
+i{
+  color:#f0542e;
+}
+.baba{
+
+  position: absolute;
+    left: 300px;
+    top: 0px;
+    z-index: -1;
+  width: 1000px;
+  
+  }
+  .lala{
+  position: absolute;
+    left: 0px;
+    top: 380px;
+    z-index: -1;
+  width: 200px;
+  }
