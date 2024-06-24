@@ -5,7 +5,7 @@ Flowerdex is a web application that identifies flowers from user-uploaded images
 > ### FlowerDex is inspired by the Pokédex gadget from the Pokémon show
 
 > #### Snap of pokedex
-> <img src="[https://github.com/jonumhills/FlowerDex/blob/master/pokedex.avif" width="200" height="400" />
+> <img src="[https://github.com/jonumhills/FlowerDex/blob/master/pokedex.avif" data-canonical-src="https://github.com/jonumhills/FlowerDex/blob/master/pokedex.avif" width="200" height="400" />
 
 
 
