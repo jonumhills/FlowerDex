@@ -10,4 +10,4 @@ Flowerdex is a web application that identifies flowers from user-uploaded images
 
 
 > #### Snap of Flowerdex
-> ![Alt text](https://github.com/jonumhills/FlowerDex/blob/master/FlowerdexProj.png)
+> <img src="https://github.com/jonumhills/FlowerDex/blob/master/FlowerdexProj.png" width="800" height="400" />
